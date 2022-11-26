@@ -1,0 +1,39 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #19282f;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #a1b57d;
+  font-size: 8rem;
+  color: #d3eca7;
+}
+
+p {
+  font-size: 2rem;
+  color: #b33030;
+  font-family: "Poppins", cursive;
+}
+
+/* img {
+  width: 100%;
+} */
+
+footer {
+  margin-top: 5%;
+  color: #b33030;
+  text-align: center;
+  font-family: "Poppins", cursive;
+}
